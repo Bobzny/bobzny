@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Eduardo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba  
+🎓 Estudante de Ciência de Dados e Inteligência Artificial na Universidade de Sorocaba  
 💼 Em busca de primeira oportunidade na área de Tecnologia  
 📖 Atualmente estudando React, TypeScript e .NET
 
